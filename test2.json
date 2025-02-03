@@ -1,0 +1,130 @@
+{
+    "denominazione": "VICENZA E' - SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+    "forma_giuridica": "SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+    "pubblico": false,
+    "oggetto_sociale": "LA SOCIETA' HA PER OGGETTO L'ISTITUZIONE DI UNA ORGANIZZAZIONE COMUNE FRA I SOCI INTERESSATI AL SETTORE DI FILIERA DEL TURISMO, PER LO SVOLGIMENTO E LA REGOLAMENTAZIONE DI DETERMINATE FASI DELLE ATTIVITA' D'IMPRESA DEI SOCI STESSI...",
+    "poteri_statutari": "LA GESTIONE DELLA SOCIETA' E' ATTRIBUITA ALL'ORGANO AMMINISTRATIVO...",
+    "attivita": [
+      {
+        "stato_attivita": true,
+        "prevalente_boolean": true,
+        "descrizione_attivita_prevalente": "SERVIZI DI ASSISTENZA AI VISITATORI: FORNITURA DI INFORMAZIONI TURISTICHE AI VIAGGIATORI.",
+        "ateco": "79.90.19",
+        "nace": "79.9",
+        "import_export_boolean": false
+      }
+    ],
+    "sedi": [
+      {
+        "tipo_via": "VIA",
+        "via": "MONTALE 25",
+        "cap": "36100",
+        "comune": "VICENZA",
+        "provincia": "VI",
+        "regione": "VENETO",
+        "paese": "ITALIA",
+        "tipo_sede": "Sede legale"
+      }
+    ],
+    "addetti": [
+      {
+        "anno": 2015,
+        "addetti_attuali": 1,
+        "addetti_attuali_dipendenti": 1,
+        "addetti_attuali_indipendenti": 0
+      }
+    ],
+    "dati_economici": [
+      {
+        "cap_sociale_sottoscritto": 14248.0,
+        "ultimo_valore_produzione": 41479.0,
+        "ultimo_utile_precedente": 394.0,
+        "pratiche_ultimi_12_mesi": 4,
+        "n_trasferimenti_quote": 37,
+        "n_trasferimenti_sede": 0
+      }
+    ],
+    "licenze_certificazioni": [],
+    "sistema_amministrativo": "CONSIGLIO DI AMMINISTRAZIONE",
+    "precedente_numero_iscrizione": "VI-1997-185992",
+    "sezioni": [
+      {
+        "tipo_sezione": "ORDINARIA",
+        "numero_sezione": "VI-261351"
+      }
+    ],
+    "cap_sociale_sottoscritto": 14248.0,
+    "cap_sociale_deliberato": 14248.0,
+    "cap_sociale_versato": 14248.0,
+    "soci": [],
+    "contratti_di_rete": [
+      {
+        "numero_repertorio_contratto_di_rete": "VI-261351",
+        "numero_registrazione_contratti_di_rete": "534",
+        "denominazione_contratto_rete": "TVB TERRE VICENTINE BIKE"
+      }
+    ],
+    "amministratori": [
+      {
+        "nome": "STEFANIA",
+        "cognome": "PARISE",
+        "luogo_nascita": "MAROSTICA (VI)",
+        "ruolo_amministratore": "CONSIGLIERA"
+      },
+      {
+        "nome": "PAOLO",
+        "cognome": "ASNICAR",
+        "luogo_nascita": "RECOARO TERME (VI)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      },
+      {
+        "nome": "OSCAR",
+        "cognome": "ZAGO",
+        "luogo_nascita": "VERONA (VR)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      },
+      {
+        "nome": "ANTONIO",
+        "cognome": "CHEMELLO",
+        "luogo_nascita": "SANDRIGO (VI)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      },
+      {
+        "nome": "PAOLO",
+        "cognome": "COGO",
+        "luogo_nascita": "VICENZA (VI)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      },
+      {
+        "nome": "CATERINA",
+        "cognome": "BONOTTO",
+        "luogo_nascita": "MAROSTICA (VI)",
+        "ruolo_amministratore": "CONSIGLIERA"
+      },
+      {
+        "nome": "CARLO ALBERTO",
+        "cognome": "CANDIA",
+        "luogo_nascita": "ARZIGNANO (VI)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      },
+      {
+        "nome": "DENISE",
+        "cognome": "LAPPO",
+        "luogo_nascita": "MONTECCHIO MAGGIORE (VI)",
+        "ruolo_amministratore": "CONSIGLIERA"
+      },
+      {
+        "nome": "GIOVANNI",
+        "cognome": "PAVESI",
+        "luogo_nascita": "MANTOVA (MN)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      },
+      {
+        "nome": "FRANCESCO ALDO",
+        "cognome": "ZANCONATO",
+        "luogo_nascita": "ARZIGNANO (VI)",
+        "ruolo_amministratore": "CONSIGLIERE"
+      }
+    ],
+    "sindaci_membri_organi_di_controllo": []
+  }

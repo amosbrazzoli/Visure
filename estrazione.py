@@ -6,6 +6,9 @@ def extract_text_from_pdf(pdf_path):
     """Estrae tutto il testo da un PDF e lo suddivide in sezioni."""
     with pdfplumber.open(pdf_path) as pdf:
         text = "\n".join(page.extract_text() for page in pdf.pages if page.extract_text())
+    
+    with open('test.txt', 'w') as file:
+        file.write(text)
 
     # Identifica le sezioni basandosi sulle intestazioni principali (con ricerca esatta)
     headers = [
